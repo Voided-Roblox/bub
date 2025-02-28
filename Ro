@@ -1,0 +1,5 @@
+print("Hello beta how are you")
+name= input('What is your name?') 
+print(name)
+print (name, 'You like Roblox a lot')
+print(name, 'You like Roblox a lot', sep='\n\n\t', end= '*******' )
