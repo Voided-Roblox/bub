@@ -1,0 +1,5 @@
+print('PPPPP  Y   Y   TTTTT    H   H   OOOOO   N   N')
+print('P   P   Y Y      T      H   H   O   O   NN  N')
+print('PPPPP    Y       T      HHHHH   O   O   NN  N')
+print("P        Y       T      H   H   O   O   N N N")
+print("P        Y       T      H   H   OOOOO   N  NN")
